@@ -1,0 +1,21 @@
+B A L L O O N    B L A S T E R    G A M E
+
+Submitted by :
+
+Abhinav Puri 2011CS1001
+Kumar Harshad 2011CS1013
+Prateek Singh 2011CS1028
+
+Dependencies :
+(install them using sudo apt-get install)
+
+freeglut3-dev
+libsdl1.2-dev
+libsdl-image1.2-dev
+libsdl-mixer1.2-dev
+
+
+Compilation & run :
+(In the source folder)
+make
+./shooter BALLOON.ifs Revolver.obj

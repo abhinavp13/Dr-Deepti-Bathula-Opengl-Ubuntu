@@ -1,0 +1,7 @@
+Programming Assignment 3 ::
+----------------------------------
+
+To Compile and Run : 
+                     make
+                     ./Raytracer <scene file>
+

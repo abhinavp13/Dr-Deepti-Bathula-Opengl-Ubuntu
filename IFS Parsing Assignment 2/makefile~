@@ -1,0 +1,4 @@
+all: viewer;
+
+viewer:2011CS1001.cpp
+	g++ -lGL -lglut -lGLU Viewer.cpp -o viewer
