@@ -1,4 +1,4 @@
-Dr-Deepti-Bathula-Opengl-Ubuntu
-===============================
+Opengl-Ubuntu
+=============
 
-This is OpenGL Graphics Homework and Assignments 
+This is OpenGL Graphics Homework and Assignments (IIT Ropar)
